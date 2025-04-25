@@ -1,16 +1,31 @@
-## Hi there 👋
+# Привет, меня зовут Женя Бородин! 👋
 
-<!--
-**zheny-creator/zheny-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я энтузиаст Linux, и open-source.Активно участвую в развитии **ALT KDE** и **ALT GNOME**, тестирую свежий софт, пишу документацию и немного программирую на **Python** 🖥️. Изучаю низкоуровневые технологии и архитектуру систем, чтобы понимать, как всё работает под капотом.
 
-Here are some ideas to get you started:
+🌐 Также я — **редактор Википедии**, где улучшаю и дополняю статьи, особенно по темам Linux, технологий и открытого ПО. Стремлюсь делать материалы точными, понятными и полезными.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Технологии и увлечения:
+
+- 🐧 Linux
+- 🧠 Низкоуровневые исследования (UEFI, ядро и т.д.)
+- 🐍 Python (начальный уровень)
+- 🧬 Сейчас изучаю язык **C**
+- 📚 Документирование и написание инструкций
+
+---
+
+## 📫 Связаться со мной:
+- 🌐 Википедия: [ZhenDash](https://ru.wikipedia.org/wiki/Участник:ZhenDash?wprov=sfla1)
+- 💬 Telegram: [@IloveLinuxBTW](http://t.me/IloveLinuxBTW)
+- 📢 Мой Telegram-канал: [@zkh1456](https://t.me/zkh1456)
+- 👤 VK: [kzheka4](https://vk.com/kzheka4)
+
+---
+
+### 🆕 UPD: Недавно начал изучать язык программирования **C** и планирую углубиться в системное программирование. 🚀
+
+---
+
+> Спасибо, что заглянули! Добро пожаловать в ЛС, если хотите пообщаться 😊
