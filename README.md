@@ -18,6 +18,5 @@
 
 ## 📫 Контакты  
 -  [Википедия](https://ru.wikipedia.org/wiki/Участник:ZhenDash?wprov=sfla1)  
--  [ВКонтакте](https://vk.com/kzheka4)  
--  [Мой тг канал](https://t.me/+0lC_PqpkO38yZTM6)  
+-  [ВКонтакте](https://vk.com/kzheka4)   
 -  [Mastodon](https://mastodon.social/@ilovelinuxbtw)  
